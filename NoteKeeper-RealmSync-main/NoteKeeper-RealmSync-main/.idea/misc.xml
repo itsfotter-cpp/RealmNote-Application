@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/luigi/Downloads/NoteKeeper-RealmSync-main/NoteKeeper-RealmSync-main/app/src/main/res/drawable/ic_home_24.xml" value="0.2635" />
+        <entry key="..\:/Users/luigi/Downloads/NoteKeeper-RealmSync-main/NoteKeeper-RealmSync-main/app/src/main/res/drawable/stroke_color.xml" value="0.263" />
+        <entry key="..\:/Users/luigi/Downloads/NoteKeeper-RealmSync-main/NoteKeeper-RealmSync-main/app/src/main/res/layout/activity_login.xml" value="0.36096014492753625" />
+        <entry key="..\:/Users/luigi/Downloads/NoteKeeper-RealmSync-main/NoteKeeper-RealmSync-main/app/src/main/res/layout/activity_sample_result.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/luigi/Downloads/NoteKeeper-RealmSync-main/NoteKeeper-RealmSync-main/app/src/main/res/layout/activity_task.xml" value="0.1" />
+        <entry key="..\:/Users/luigi/Downloads/NoteKeeper-RealmSync-main/NoteKeeper-RealmSync-main/app/src/main/res/layout/fragment_home.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/luigi/Downloads/NoteKeeper-RealmSync-main/NoteKeeper-RealmSync-main/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Users/luigi/Downloads/NoteKeeper-RealmSync-main/NoteKeeper-RealmSync-main/app/src/main/res/layout/stroke_color.xml" value="0.36096014492753625" />
+        <entry key="..\:/Users/luigi/Downloads/NoteKeeper-RealmSync-main/NoteKeeper-RealmSync-main/app/src/main/res/layout/task_item_view.xml" value="0.36096014492753625" />
+        <entry key="..\:/Users/luigi/Downloads/NoteKeeper-RealmSync-main/NoteKeeper-RealmSync-main/app/src/main/res/menu/bottom_navigation.xml" value="0.365625" />
+        <entry key="..\:/Users/luigi/Downloads/NoteKeeper-RealmSync-main/NoteKeeper-RealmSync-main/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.365625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NoteKeeper-RealmSync</string>
+    <string name="title">Note List</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="login">Login</string>
+    <string name="new_task">Create new task</string>
+    <string name="logout">LogOut</string>
+    <string name="remove">REMOVE</string>
+    <string name="create_new_project">Create New Project</string>
+
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="fab_addnote">fab_addNote</string>
+    <string name="email">Email</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+
+</resources>

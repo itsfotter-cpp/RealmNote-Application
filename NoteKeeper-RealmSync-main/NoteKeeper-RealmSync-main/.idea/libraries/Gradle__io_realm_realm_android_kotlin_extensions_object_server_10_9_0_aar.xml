@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: io.realm:realm-android-kotlin-extensions-object-server:10.9.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d1bd00193bcdaa88a5622a21644f23a/jetified-realm-android-kotlin-extensions-object-server-10.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9330960b752d8b187fd92a1b067f06f2/jetified-realm-android-kotlin-extensions-object-server-10.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/deec1c748929fb96ac8f9cb88f84f034/jetified-realm-android-kotlin-extensions-object-server-10.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a96e275aaa36a19e14c9b4577994898f/jetified-realm-android-kotlin-extensions-object-server-10.9.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/deec1c748929fb96ac8f9cb88f84f034/jetified-realm-android-kotlin-extensions-object-server-10.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/deec1c748929fb96ac8f9cb88f84f034/jetified-realm-android-kotlin-extensions-object-server-10.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-kotlin-extensions-object-server/10.9.0/892e1020b8dcce9a8904bcd6d501da1c73d8b188/realm-android-kotlin-extensions-object-server-10.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-kotlin-extensions-object-server/10.9.0/d87299b7085d568079d0c01158aa51debf718040/realm-android-kotlin-extensions-object-server-10.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
